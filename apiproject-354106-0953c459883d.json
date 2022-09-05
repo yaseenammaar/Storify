@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "apiproject-354106",
+  "private_key_id": "0953c459883d82337c1c1957fc0afa54024192a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtuz1BRHAoOT89\nNQr1sMuO5f+pcSxgr1hmf22mEq9PxB89XYuRVekqjJenU5gB3hnqWDO/IEBSlIYd\n6JNsegNs0F9Pl2nwBIZ0G5qAalaXOj5uLrbCeVet1Z737JMS13PaTd9mVZAg9uSp\nUcsDYYBQgo++uBgGiywIqGREE4+b2hLdXYwZAE3yVutqUmxXAnE4T8YSYb6Iu7dw\n076YejYghxVo95MIEwe4HhZxIAm7QGRaGhXxFnMBI/6si/aUk7k1pe7xCmRvvNVs\nt7+ijwlH8R2LIwgank1xsF37j9sdYbZwoW9uqMQ7cglS3LARbVOUToYh6nA2Xcf2\ne0/amqBlAgMBAAECggEAAOAPcXDmUxWNaiyxEZwikmWPPFZ2dPA9NPBRvZic1dKK\nSRVbus+LfVbi/AlRm+TMuEpZzGMzCmzMINdx8rB0rEt/x2y0WxddaWAAOcMPYkio\nADHFDZrDOdF4hmLkj3ToFQKibFIPB/4mbcHx5gz2MrGjBsDHrN9uSTGL+8R7deYJ\nD24ar9I6Q0P3LQbH4W0UODBGmeEP9srhR/+liRxKzDfP21zwC0xrlWNSX6O7SWao\n+aC6RNxWjFXJ+d5nEh02ZqXtkbVvOf5pKlyuNimCSVYIn8tyz4H71xkzox5QCXeC\nv36mmFeseB5ozyclBpLXh7JgOE6he+twyIYEHIsQsQKBgQDcm5mWtfZoh2NKN7wh\na68aW22qhgJgEPqwHGyS3jOp/w7hi+dOEGhVuHBl8UDqrKvjOje0h5xywP9UyUfi\njIn5C9nv2Xlju1EjVehLahg6d02sB9/0YzxBlGonoRoxN+O3DxPA4/Q7m9lyF+/k\nzL2E6L4YsPsaItBzfyB6igLFjQKBgQDJmmrUfdrr4nCCUYGPHsodqnz0ygRBgQzT\n/b9HDcLOaqgWhbxX6PZiiw8uyO7QpGVuriLQ3fT3llXJjjLwF9e6U6uFYf+r/K6D\nGN5CErAYdzkern83KJ3eDdTTgSM5o62lLQlIdQuFS5AeGHT9oIqCZVZW8V+q8Jb+\nbbBoEkw0OQKBgQCDi8km5DQdmnWrYNauuw570f7vyt8Jt7Y0Y46eeR8nhC60cX8o\nvoHoc4WaVCSYiwQoB6QF40N37fuS7D8QKStwtQ9shSpsPNsiDezpY0c1PcS0CzIR\nAUeB92ThYqBCrwf7NWNbBtKw5Lrh3MIwlaGA6mPIR2hD6nSQGkMcrsT+VQKBgH36\ngZFhSAEpEfdNaXF+4vwgwk7RQlGQi+yY3wNOpRIJ8hmI3oXsrLIthYJNy3YTlNLR\n/C2a1W41wkveERSZQZRMnp0N/Q+DKaYATzropKPVNJtonVRhjCzrZbf5NYLaNjNG\nbkuZ4GYeLuOvksO+o28SVh6kXIzcJO6+qoKOFJJ5AoGAZDvL3OGrv4WBYz5eVtHM\n2YlSgBB+3ijZ9cM0PKfx6kaKDPkJo7fEJaQTy2tnQN4V0o+ngqfVpo6r8ia5C8so\nf3rM3gEJS3dUx4J/F7nLnaBoGkkIvP5S0FSRRLaiPH3mTRJ/wkp3DTnT5c60eU4N\nQTY0mMWIvMiykzG8A9aiAbk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "specchtotextapi@apiproject-354106.iam.gserviceaccount.com",
+  "client_id": "113643236414537481615",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/specchtotextapi%40apiproject-354106.iam.gserviceaccount.com"
+}
