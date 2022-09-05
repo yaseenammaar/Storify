@@ -1,0 +1,74 @@
+[20-Jul-2022 14:48:48 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid utf8 character string: 'j\xC7Z' in /home/customer/www/maxg.shop/public_html/linkcontent.php:14
+Stack trace:
+#0 /home/customer/www/maxg.shop/public_html/linkcontent.php(14): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/customer/www/maxg.shop/public_html/linkcontent.php on line 14
+[20-Jul-2022 14:48:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid utf8 character string: 'j\xC7Z' in /home/customer/www/maxg.shop/public_html/linkcontent.php:14
+Stack trace:
+#0 /home/customer/www/maxg.shop/public_html/linkcontent.php(14): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/customer/www/maxg.shop/public_html/linkcontent.php on line 14
+[20-Jul-2022 14:49:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid utf8 character string: 'j\xC7Z' in /home/customer/www/maxg.shop/public_html/linkcontent.php:14
+Stack trace:
+#0 /home/customer/www/maxg.shop/public_html/linkcontent.php(14): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/customer/www/maxg.shop/public_html/linkcontent.php on line 14
+[20-Jul-2022 14:50:33 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/customer/www/maxg.shop/public_html/linkcontent.php:15
+Stack trace:
+#0 /home/customer/www/maxg.shop/public_html/linkcontent.php(15): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/customer/www/maxg.shop/public_html/linkcontent.php on line 15
+[20-Jul-2022 14:50:41 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/customer/www/maxg.shop/public_html/linkcontent.php:15
+Stack trace:
+#0 /home/customer/www/maxg.shop/public_html/linkcontent.php(15): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/customer/www/maxg.shop/public_html/linkcontent.php on line 15
+[20-Jul-2022 14:55:35 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/customer/www/maxg.shop/public_html/linkcontent.php:15
+Stack trace:
+#0 /home/customer/www/maxg.shop/public_html/linkcontent.php(15): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/customer/www/maxg.shop/public_html/linkcontent.php on line 15
+[20-Jul-2022 14:55:55 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/customer/www/maxg.shop/public_html/linkcontent.php:15
+Stack trace:
+#0 /home/customer/www/maxg.shop/public_html/linkcontent.php(15): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/customer/www/maxg.shop/public_html/linkcontent.php on line 15
+[20-Jul-2022 14:57:53 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/customer/www/maxg.shop/public_html/linkcontent.php:15
+Stack trace:
+#0 /home/customer/www/maxg.shop/public_html/linkcontent.php(15): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/customer/www/maxg.shop/public_html/linkcontent.php on line 15
+[20-Jul-2022 18:47:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "pkg" in /home/customer/www/maxg.shop/public_html/profile.php:142
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/maxg.shop/public_html/profile.php on line 142
+[20-Jul-2022 19:44:02 Asia/Kolkata] PHP Fatal error:  Uncaught Google\ApiCore\ApiException: {
+    "message": "Must use single channel (mono) audio, but WAV header indicates 2 channels.",
+    "code": 3,
+    "status": "INVALID_ARGUMENT",
+    "details": []
+}
+
+  thrown in /home/customer/www/maxg.shop/public_html/vendor/google/gax/src/ApiException.php on line 139
+[20-Jul-2022 19:44:46 Asia/Kolkata] PHP Fatal error:  Uncaught Google\ApiCore\ApiException: {
+    "message": "Must use single channel (mono) audio, but WAV header indicates 2 channels.",
+    "code": 3,
+    "status": "INVALID_ARGUMENT",
+    "details": []
+}
+
+  thrown in /home/customer/www/maxg.shop/public_html/vendor/google/gax/src/ApiException.php on line 139
+[20-Jul-2022 20:17:02 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/customer/www/maxg.shop/public_html/create-feed.php:20
+Stack trace:
+#0 /home/customer/www/maxg.shop/public_html/create-feed.php(20): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/customer/www/maxg.shop/public_html/create-feed.php on line 20
+[22-Jul-2022 10:52:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/customer/www/maxg.shop/public_html/configuration/class.smtp.php:326
+Stack trace:
+#0 /home/customer/www/maxg.shop/public_html/configuration/class.phpmailer.php(506): SMTP->Data('Date: Fri, 22 J...')
+#1 /home/customer/www/maxg.shop/public_html/configuration/class.phpmailer.php(375): PHPMailer->SmtpSend('Date: Fri, 22 J...', '<!doctype html>...')
+#2 /home/customer/www/maxg.shop/public_html/configuration/functions.php(789): PHPMailer->Send()
+#3 /home/customer/www/maxg.shop/public_html/forgot-password.php(110): sendRoomReservationMail('rsrsanjeev@gmai...', 'rsrsanjeev1991@...', 'Giide', 'Password Reset ...', '<!doctype html>...')
+#4 {main}
+  thrown in /home/customer/www/maxg.shop/public_html/configuration/class.smtp.php on line 326
+[22-Jul-2022 06:19:38 UTC] PHP Parse error:  Unmatched '}' in /home/customer/www/maxg.shop/public_html/forgot-password.php on line 183
